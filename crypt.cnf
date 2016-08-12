@@ -1,0 +1,6 @@
+LOCAL_DIR=/home/acd/local-sorted
+ACD_DIR=/home/acd/acd-sorted
+UNION_DIR=/home/acd/sorted
+SECRET_LOCATION=/home/acd/.encfs_secret
+ENCFS6_CONFIG=/home/acd/.encfs6.xml
+ACD_USER=acd
